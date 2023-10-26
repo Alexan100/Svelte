@@ -1,0 +1,12 @@
+
+Primer paso:
+npx degit sveltejs/template moz-todo-svelte
+
+Segundo paso:
+cd moz-todo-svelte
+
+Tercer paso:
+npm install
+
+Cuarto paso:
+npm run dev
